@@ -15,7 +15,7 @@
          
 ````
 # 💫 About Me:
-🔭 I’m currently working on my personal website named xenon dev<br>👯 I’m looking to collaborate on any project that needs an angular frontend dev<br>🤝 I’m looking for help with learning new skills that I am not aware of<br>🌱 I’m currently learning full-stack development<br>💬 Ask me about my website, I worked on it a lot and learned a lot from it<br>⚡ Fun fact: I like to cook and mix cocktails
+🔭 I’m currently working on my personal website named xenon dev<br>👯 I’m looking to collaborate on any project that needs an angular frontend dev<br>🤝 I’m looking for help with learning new skills that I am not aware of<br>🌱 I’m currently learning full-stack development<br>💬 Ask me about my website<br>⚡ Fun fact: I like to cook and mix cocktails
 
 
 # 💻 Tech Stack:
